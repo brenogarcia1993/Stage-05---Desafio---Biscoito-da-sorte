@@ -5,5 +5,6 @@
 
 
 <h2>Tela final com a mensagem do biscoito da sorte</h2>
+<span>
 ![215531833-7fd2a624-a826-4f59-a376-287db56be29f](https://user-images.githubusercontent.com/84537139/215532270-01af469d-ffae-4967-93d6-91f1ac11875d.png)
-
+</span>
